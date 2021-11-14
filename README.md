@@ -7,4 +7,6 @@
 
 **Hypothesis** Escherichia coli ST117 is considered to be poultry origin. Now more human are found to be infected by this strain. Our hypothesis is that human isolates should be very close to chicken isolates, and probably transmitted from chicken.
 
+![](https://github.com/Alimiao20/Principal-of-bioinfomatic/blob/gh-pages/img/poultry.jpg)
+
 *Important note:* This is the final project for 6860 bioinformatic.
